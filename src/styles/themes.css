@@ -1,0 +1,137 @@
+.default:root {
+  --body-bgcolor: #333333;
+  --machine-bgcolor: #d3d3d3;
+  --screen-bgcolor: #808080;
+  --screen-color: #000000;
+  --btn-numbers-color: #ffffff;
+  --btn-numbers-bgcolor: #333333;
+  --btn-numbers-bgcolor-active: #2c2c2c;
+  --btn-numbers-border: #000000;
+  --btn-operators-color: #ffffff;
+  --btn-operators-bgcolor: #990000;
+  --btn-operators-border: #330000;
+}
+
+.dracula:root {
+  --body-bgcolor: #383a59;
+  --machine-bgcolor: #282a36;
+  --screen-bgcolor: #21222c;
+  --screen-color: #50fa7b;
+  --btn-numbers-color: #8be9fd;
+  --btn-numbers-bgcolor: #5a6895;
+  --btn-numbers-border: #383a59;
+  --btn-operators-color: #ffffff;
+  --btn-operators-bgcolor: #ff79c6;
+  --btn-operators-border: #383a59;
+}
+.monokai:root {
+  --body-bgcolor: #3e3d32;
+  --machine-bgcolor: #cfcfc2;
+  --screen-bgcolor: #3e3d32;
+  --screen-color: #fd971f;
+  --btn-numbers-color: #e7e7e7;
+  --btn-numbers-bgcolor: #3e3d32;
+  --btn-numbers-border: #272822;
+  --btn-operators-color: #f92672;
+  --btn-operators-bgcolor: #383d32;
+  --btn-operators-border: #272822;
+}
+
+.amoled:root {
+  --body-bgcolor: #000000;
+  --machine-bgcolor: #0c0c0c;
+  --screen-bgcolor: #020202;
+  --screen-color: #59b2d0;
+  --btn-numbers-color: #ffffff;
+  --btn-numbers-bgcolor: #000000;
+  --btn-numbers-border: #202021;
+  --btn-operators-color: #ffffff;
+  --btn-operators-bgcolor: #000000;
+  --btn-operators-border: #202021;
+}
+
+.ocean:root {
+  --body-bgcolor: #095ca0;
+  --machine-bgcolor: #03092a;
+  --screen-bgcolor: #020202;
+  --screen-color: #59b2d0;
+  --btn-numbers-color: #ffffff;
+  --btn-numbers-bgcolor: #03385e;
+  --btn-numbers-border: #171736;
+  --btn-operators-color: #ffffff;
+  --btn-operators-bgcolor: #980d0d;
+  --btn-operators-border: #202021;
+}
+
+.rainbow:root{
+  --body-bgcolor: #F79D84;
+  --machine-bgcolor: #ededed;
+  --screen-bgcolor: #FAC05E;
+  --screen-color: #ededed;
+  --btn-numbers-color: #EE6352;
+  --btn-numbers-bgcolor: #59CD90;
+  --btn-numbers-border: #59CD90;
+  --btn-operators-color: #EE6352;
+  --btn-operators-bgcolor: #3FA7D6;
+  --btn-operators-border: #3FA7D6;
+}
+.candy:root{
+  --body-bgcolor: #FFFFFF;
+  --machine-bgcolor: #ededed;
+  --screen-bgcolor: #fffefe;
+  --screen-color: #000000;
+  --btn-numbers-color: #000000;
+  --btn-numbers-bgcolor: #65fcff;
+  --btn-numbers-border: #65fcff;
+  --btn-operators-color: #000000;
+  --btn-operators-bgcolor: #ff6e6b;
+  --btn-operators-border: #ff6e6b;
+}
+.beach:root{
+  --body-bgcolor: #FED9B7;
+  --machine-bgcolor: #ededed;
+  --screen-bgcolor: #FDFCDC;
+  --screen-color: #000000;
+  --btn-numbers-color: #000000;
+  --btn-numbers-bgcolor: #00AFB9;
+  --btn-numbers-border: #00AFB9;
+  --btn-operators-color: #000000;
+  --btn-operators-bgcolor: #F07167;
+  --btn-operators-border: #F07167;
+}
+.vintage:root{
+  --body-bgcolor: #4a4849;
+  --machine-bgcolor: #284c4c;
+  --screen-bgcolor: #a45e5f;
+  --screen-color: #ffffff;
+  --btn-numbers-color: #000000;
+  --btn-numbers-bgcolor: #a45e5f;
+  --btn-numbers-border: #a45e5f;
+  --btn-operators-color: #000000;
+  --btn-operators-bgcolor: #ebb7b6;
+  --btn-operators-border: #ebb7b6;
+}
+.halloween:root {
+  --body-bgcolor: #000000;
+  --machine-bgcolor: #F58840;
+  --screen-bgcolor: #EADEDE;
+  --screen-color: #000000;
+  --btn-numbers-color: #000000;
+  --btn-numbers-bgcolor: rgba(184, 82, 82, 0.5);
+  --btn-numbers-border: #B85252;
+  --btn-operators-color: #F58840;
+  --btn-operators-bgcolor: #000000;
+  --btn-operators-border: #F58840;
+}
+.carbon:root{
+  --body-bgcolor: #1f1f1f;
+  --machine-bgcolor: #404040;
+  --screen-bgcolor: #313131;
+  --screen-color: #ffffff;
+  --btn-numbers-color: #ffffff;
+  --btn-numbers-bgcolor: #313131;
+  --btn-numbers-border: #313131;
+  --btn-operators-color: #ffffff;
+  --btn-operators-bgcolor: #f66e0d;
+  --btn-operators-border: #f66e0d;
+}
